@@ -30,3 +30,9 @@ For the firmware that goes on the CC1110 itself, see:
 For the software that runs on the Edison to communicate with the CC1110, see :
 
 - https://github.com/EnhancedRadioDevices/915MHzEdisonExplorer_SW
+
+# Acquiring hardware
+
+The Explorer block is currently available for preorder:
+
+- https://enhanced-radio-devices.myshopify.com/products/900mhz-explorer-block-pre-order
