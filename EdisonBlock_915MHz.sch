@@ -38,9 +38,9 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 4
 Title "Edison Block - 915MHz Radio Adapter"
-Date "2016-06-21"
-Rev "1"
-Comp "Good Measure Design, LLC."
+Date "2016-11-05"
+Rev "3"
+Comp "Enhanced Radio Devices, LLC."
 Comment1 ""
 Comment2 ""
 Comment3 ""

@@ -1,10 +1,10 @@
-### Module positions - created on 7/26/2016 8:58:40 PM ###
+### Module positions - created on 11/7/2016 8:45:58 PM ###
 ### Printed by Pcbnew version kicad 4.0.2-stable
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val              Package                PosX       PosY       Rot  Side
 C27       DNP              C_0603              -1.4452    24.9048  270.0000  top
-C28       4.7u             C_0603              -3.0202    24.9048  270.0000  top
+C28       DNP              C_0603              -3.0202    24.9048  270.0000  top
 U1        EdisonConnector  DF40HC(3.0)-70DS    20.2300    18.3000  180.0000  top
 U2        DNP              SOT-23              -2.3202    27.7198  180.0000  top
 ## End
