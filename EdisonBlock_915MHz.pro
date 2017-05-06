@@ -1,4 +1,4 @@
-update=4/8/2017 3:00:42 PM
+update=5/5/2017 5:06:17 PM
 version=1
 last_client=kicad
 [general]
@@ -39,7 +39,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=
+LibDir=../../01_resources/KiCAD_libs/libraries
 [eeschema/libraries]
 LibName1=EdisonBlock_915MHz-rescue
 LibName2=power
@@ -71,3 +71,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=D:/Dropbox/GMD_Share/01_resources/KiCAD_libs/libraries/metrix_parts
+LibName32=D:/Dropbox/GMD_Share/01_resources/KiCAD_libs/libraries/mogar_KiCAD
+LibName33=D:/Dropbox/GMD_Share/01_resources/KiCAD_libs/libraries/SparkFun
