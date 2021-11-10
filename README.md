@@ -8,7 +8,7 @@ The 915MHz Edison Explorer Block allows an Intel Edison to serve as a bridge fro
 
 The files in this repo are for the 915MHz Explorer hardware. To open them, you'll need KiCAD:
 
-- http://kicad-pcb.org/
+- http://kicad.org/
 
 It may also be helpful to use these libraries:
 
